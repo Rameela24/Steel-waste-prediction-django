@@ -1,0 +1,158 @@
+<!--author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+{% extends 'quality/qualitycontrol.html' %}
+{% load static %}
+{% block content %}
+<head>    
+<title>Raw Materials</title>
+<!-- meta_tags-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Library Membership form A Flat Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+	function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta_tag_Keywords-->
+<!--css_files-->
+	<link rel="stylesheet" href="{% static 'raw_materials/css/jquery-ui.css' %}"/>
+	<link href="{% static 'raw_materials/css/style.css' %}" rel="stylesheet" type="text/css" media="all"/><!--stylesheet-->
+	<link rel="stylesheet" href="{% static 'raw_materials/css/font-awesome.css' %}"><!--font_wesome_icons-->
+	<link href="//fonts.googleapis.com/css?family=PT+Sans+Caption" rel="stylesheet"><!--online_fonts-->
+	<link href="//fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet"><!--online_fonts-->
+<!--//css_files-->
+</head>
+<body>
+<div class="w3l-head"><br><br><br>
+<h1>Raw Materials Update</h1>
+</div>
+<div class="w3ls-form">
+<form action="/raw_materials_2/" method="post">
+	{% csrf_token %}
+		<div class="w3l-last-grid1">
+			<div class="w3l-grid1">
+				<label class="text">IRON ORE</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-user" aria-hidden="true"></i>-->
+					<input type="text" name="iron_ore" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div> 
+			<div class="w3l-grid2">
+			<label class="text">COKING COAL</label>
+			<div class="w3l-div">
+<!--				<i class="fa fa-user" aria-hidden="true"></i>-->
+				<input type="text" name="coking_coal" placeholder="(In kgs)" autocomplete="off"/>
+			</div>
+			</div>
+			<div class="clear"></div>
+		</div>	
+		<div class="w3l-last-grid1">
+			<div class="w3l-grid1">
+				<label class="text">FERROUS SCRAP</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-users" aria-hidden="true"></i>-->
+					<input type="text" name="ferrous_scrap" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>	
+			<div class="w3l-grid2">
+				<label class="text">MANGANESE</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-calendar" aria-hidden="true"></i>-->
+					<input type="text" name="manganese" placeholder="(In kgs)" autocomplete="off"/>
+				</div>	
+			</div>	
+			<div class="clear"></div>
+		</div>
+		<div class="w3l-last-grid1">
+			<div class="w3l-grid1">
+				<label class="text">SILICON FERRO-ALLOY</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-envelope-o" aria-hidden="true"></i>-->
+					<input type="text" name="siliconferro_alloy" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="w3l-grid2">
+				<label class="text">CHROMIUM</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-phone" aria-hidden="true"></i>-->
+					<input type="text" name="chromium" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="w3l-last-grid1">
+			<div class="w3l-grid1">	
+				<label class="text">NICKEL</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-location-arrow" aria-hidden="true"></i>-->
+					<input type="text" name="nickel" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="w3l-grid2">	
+				<label class="text">ZINC</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-map-marker" aria-hidden="true"></i>-->
+					<input type="text" name="zinc" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div class="w3l-right-grid1">
+			<div class="w3l-grid1">
+				<label class="text">TIN</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-map-marker" aria-hidden="true"></i>-->
+					<input type="text" name="tin" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="w3l-grid2">
+				<label class="text">MOLYBDENUM</label>
+				<div class="w3l-div">
+<!--					<i class="fa fa-address-card-o" aria-hidden="true"></i>-->
+					<input type="text" name="molybdenum" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div class="w3l-right-grid1">
+		<div class="w3l-grid1">
+			<label class="text">VANADIUM<span></span></label>
+				<div class="w3l-div">
+<!--				<i class="fa fa-pencil-square-o" aria-hidden="true"></i>-->
+					<input type="text" name="vanadium" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+		</div>	
+			<label class="text">TUNGSTEN</label>
+			<div class="w3l-grid2">
+				<div class="w3l-div">
+<!--					<i class="fa fa-book" aria-hidden="true"></i>-->
+					<input type="text" name="TUNGSTEN" placeholder="(In kgs)" autocomplete="off"/>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="w3ls-submit">
+			<input type="submit" value="UPDATE">
+		</div>
+</form>
+</div>
+<footer></a></footer>
+
+<!-- Default-JavaScript --> <script type="text/javascript" src="{% static 'raw_materials/js/jquery-2.1.4.min.js' %}"></script>
+
+<!-- Calendar -->
+<script src="{% static 'raw_materials/js/jquery-ui.js' %}"></script>
+	<script>
+		$(function() {
+		$( "#datepicker,#datepicker1" ).datepicker();
+		});
+	</script>
+<!-- //Calendar -->
+</body>
+{% endblock %}
+</html>

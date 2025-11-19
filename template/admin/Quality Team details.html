@@ -1,0 +1,78 @@
+{% extends 'admin/admin_home.html' %}
+{% load static %}
+{% block content %}
+
+
+<style>
+table, th, td {
+  border:1px solid black;
+
+  font-color:white;
+
+}
+
+th{
+ background-color:black;
+ color:white;
+
+}
+
+
+h1{color:white}
+</style>
+
+
+
+   <div class="container" style="margin-top:40px"><br><br>
+        <center>
+            <h1>  QUALITY CONTROL TEAM</h1></center>
+        <br><br>
+
+
+        <table class="table" style="margin-left:10px">
+            <thead>
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+  <tr>
+      <th>Name</th>
+      <th>EmailL</th>
+      <th>Gender</th>
+      <th>Address</th>
+      <th>Employee ID</th>
+      <th>Raw Material Supplier</th>
+      <th>Inspection Team Type</th>
+      <th>Raw Material Quality</th>
+
+<!--      <th>status</th>-->
+
+ </tr>
+            </thead>
+            <tbody>
+            {% for data in datas %}
+            <tr style="background-color:#256D85;color:white;text-align: center;">
+            <td style="color:white;">{{data.name}}</td>
+            <td style="color:white;">{{data.email}}</td>
+            <td style="color:white;">{{data.gender}}</td>
+            <td style="color:white;">{{data.address}}</td>
+            <td style="color:white;">{{data.employee_id}}</td>
+            <td style="color:white;">{{data.Supplier}}</td>
+            <td style="color:white;">{{data.inspection_team_type}}</td>
+            <td style="color:white;">{{data.raw_material_quality}}</td>
+
+
+
+
+
+
+<!--            <td style="color:white;"><a href="#"><input type="button" value="Reject"></a></td>-->
+
+  </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,88 @@
+{% extends 'manufacturing/manufacture_home.html' %}
+{% load static %}
+{% block content %}
+
+
+<style>
+table, th, td {
+  border:1px solid black;
+
+  font-color:white;
+
+}
+
+th{
+ background-color:black;
+ color:white;
+
+}
+
+
+h1{color:white}
+</style>
+
+
+
+   <div class="container" style="margin-top:5px"><br><br><br><br><br><br><br>
+        <center>
+            <h1> Expected Output Details</h1></center>
+        <br><br>
+
+
+        <table class="table" style="margin-left:10px">
+            <thead>
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+  <tr>
+                <th><center>IRON ORE</center></th>
+                <th><center>COKING COAL</center></th>
+                <th><center>FERROUS SCRAP & METALS</center></th>
+                <th><center>METHOD</center></th>
+                <th><center>EXPECTED STEEL(IN KGS)</center></th>
+                <th><center>PREDICT</center></th>
+<!--      <th>SILICON FERRO-ALLOY</th>-->
+<!--      <th>CHROMIUM</th>-->
+<!--      <th>NICKEL</th>-->
+<!--      <th>ZINC</th>-->
+<!--      <th>TIN</th>-->
+<!--      <th>MOLYBDENUM</th>-->
+<!--      <th>VANADIUM</th>-->
+<!--      <th>TUNGSTEN</th>-->
+<!--      <th>status</th>-->
+
+ </tr>
+            </thead>
+            <tbody>
+            {% for data in datas %}
+            <tr style="background-color:#256D85;color:white;text-align: center;">
+            <td style="color:white;">{{data.iron_ore}}</td>
+            <td style="color:white;">{{data.COKING_COAL}}</td>
+            <td style="color:white;">{{data.FERROUS_SCRAP}}</td>
+            <td style="color:white;">{{data.METHOD}}</td>
+            <td style="color:white;">{{data.OUTPUT}}</td>
+            <td><a href="/ot_prediction/{{data.id}}"><button type="button" class="btn btn-info">Expected output</button></a></td>
+<!--            <td style="color:white;">{{data.siliconferro_alloy}}</td>-->
+<!--            <td style="color:white;">{{data.chromium}}</td>-->
+<!--            <td style="color:white;">{{data.nickel}}</td>-->
+<!--            <td style="color:white;">{{data.zinc}}</td>-->
+<!--            <td style="color:white;">{{data.tin}}</td>-->
+<!--            <td style="color:white;">{{data.molybdenum}}</td>-->
+<!--            <td style="color:white;">{{data.vanadium}}</td>-->
+<!--            <td style="color:white;">{{data.TUNGSTEN}}</td>-->
+
+
+
+
+
+<!--            <td style="color:white;"><a href="#"><input type="button" value="Reject"></a></td>-->
+
+  </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+{% endblock %}

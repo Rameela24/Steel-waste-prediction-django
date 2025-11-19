@@ -1,0 +1,355 @@
+METHOD,cooling,casting,secondary,OUTPUT
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,Steel making slag - Sumimoto Kawasaki Ageing Proces (SKAP) -  Micro-pelletisation 
+BOF,liquid cooling,cooled moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Fines in sinter making
+BOF,liquid cooling,cooled moulds,removing certain elements,Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,sand moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,air cooling,cooled moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,cooled moulds,manipulating temperature,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) - Micro-pelletisation
+BOF,air cooling,cooled moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,air cooling,cooled moulds,manipulating temperature,Fines in sinter making
+BOF,air cooling,sand moulds,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,air cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,air cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,air cooling,sand moulds,manipulating temperature,Fines in sinter making -Hybrid Pellet Sintering 
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,sand moulds,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+BOF,liquid cooling,sand moulds,manipulating temperature,Fines in sinter making
+BOF,liquid cooling,sand moulds,manipulating temperature,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace-Hamborn  shaft furnace
+BOF,liquid cooling,cooled moulds,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+BOF,liquid cooling,cooled moulds,removing certain elements,Molten slag atomization - Dry slag granulation
+BOF,liquid cooling,cooled moulds,removing certain elements,Steel making slag -Sumimoto Kawasaki Ageing Proces (SKAP) 
+EAF,sand moulds,air cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,air cooling,removing certain elements,Dust at BF - FASTMET process 
+EAF,sand moulds,air cooling,removing certain elements,"EAF dust ,  ferruginous waste - Hybrid Pellet Sintering "
+EAF,sand moulds,air cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,liquid cooling,manipulating temperature,Dust at BF - FASTMET process 
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,removing certain elements,"Sludge, coal & lime fines - Cold briquetting"
+EAF,sand moulds,liquid cooling,removing certain elements,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,sand moulds,liquid cooling,manipulating temperature,Fines in sinter making
+EAF,sand moulds,liquid cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,sand moulds,liquid cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Fines in sinter making
+EAF,cooled moulds,liquid cooling,removing certain elements,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,liquid cooling,removing certain elements,Alkali  bearing  dusts &  sludge from  Blast Furnace -Velco injection technique for BF - GBFS (Granulated Blast  Furnace  Slag)
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation
+EAF,cooled moulds,air cooling,manipulating temperature,"Sludge, coal & lime fines - Cold briquetting"
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,Fines in sinter making
+EAF,cooled moulds,air cooling,manipulating temperature,"EAF dust ,  ferruginous waste - FASTMET process"
+EAF,cooled moulds,air cooling,manipulating temperature,Molten slag atomization - Dry slag granulation

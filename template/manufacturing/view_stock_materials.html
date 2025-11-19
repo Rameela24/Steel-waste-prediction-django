@@ -1,0 +1,84 @@
+{% extends 'manufacturing/manufacture_home.html' %}
+{% load static %}
+{% block content %}
+
+
+<style>
+table, th, td {
+  border:1px solid black;
+
+  font-color:white;
+
+}
+
+th{
+ background-color:black;
+ color:white;
+
+}
+
+
+h1{color:white}
+</style>
+
+
+
+   <div class="container" style="margin-top:5px;margin-left:85px"><br><br><br><br><br><br>
+        <center>
+            <h1> RAW MATERIAL DETAILS</h1></center>
+        <br><br>
+
+
+        <table class="table" style="margin-left:10px">
+            <thead>
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+  <tr>
+      <th><center>IRON ORE</center></th>
+      <th><center>COKING COAL</center></th>
+      <th><center>FERROUS SCRAP</center></th>
+      <th><center>MANGANESE</center></th>
+      <th><center>SILICON FERRO_ALLOY</center></th>
+      <th><center>CHROMIUM</center></th>
+      <th><center>NICKEL</center></th>
+      <th><center>ZINC</center></th>
+      <th><center>TIN</center></th>
+      <th><center>MOLYBDENUM</center></th>
+      <th><center>VANADIUM</center></th>
+      <th><center>TUNGSTEN</center></th>
+<!--      <th>status</th>-->
+
+ </tr>
+            </thead>
+            <tbody>
+            {% for data in datas %}
+            <tr style="background-color:#256D85;color:white;text-align: center;">
+            <td style="color:white;">{{data.iron_ore}}</td>
+            <td style="color:white;">{{data.coking_coal}}</td>
+            <td style="color:white;">{{data.ferrous_scrap}}</td>
+            <td style="color:white;">{{data.manganese}}</td>
+            <td style="color:white;">{{data.siliconferro_alloy}}</td>
+            <td style="color:white;">{{data.chromium}}</td>
+            <td style="color:white;">{{data.nickel}}</td>
+            <td style="color:white;">{{data.zinc}}</td>
+            <td style="color:white;">{{data.tin}}</td>
+            <td style="color:white;">{{data.molybdenum}}</td>
+            <td style="color:white;">{{data.vanadium}}</td>
+            <td style="color:white;">{{data.TUNGSTEN}}</td>
+
+
+
+
+
+<!--            <td style="color:white;"><a href="#"><input type="button" value="Reject"></a></td>-->
+
+  </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+{% endblock %}
